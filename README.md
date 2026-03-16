@@ -111,9 +111,9 @@ This game is part of a curated collection of high-performance web games maintain
 
 ## Developer Contact
 **HSINI MOHAMED**
-- **Email**: [hsini.web@gmail.com](mailto:hsini.web@gmail.com)
-- **Website**: [https://unlockedgames.io](https://unlockedgames.io)
-- **Portfolio**: [Explore more games](https://unlockedgames.io)
+- **Email**: [jcunblocked@gmail.com](jcunblocked@gmail.com)
+- **Website**: [JC Unblocked](https://sites.google.com/view/jcunblockedio)
+- **Portfolio**: [Explore more games]([https://unlockedgames.io](https://sites.google.com/view/jcunblockedio))
 
 ---
 © 2024 **HSINI MOHAMED**. All games are hosted and maintained for educational and entertainment purposes.
